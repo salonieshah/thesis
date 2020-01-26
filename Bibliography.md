@@ -1,5 +1,5 @@
 ## MSDV Thesis
-# Biography for Thesis <br/>
+# Bibliography for Thesis <br/>
 #### Date: 26 January 2020
 
 
