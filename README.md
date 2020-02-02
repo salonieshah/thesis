@@ -35,6 +35,7 @@ Material Proposal: Bamboo <br>
 6. Sources <br>
 •	[NYC Open Data](https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6) <br>
 
+![mind-map](https://github.com/salonieshah/thesis/blob/master/images/mind-map.png)
 ----------------------------------------------------------------------------------------------
 
 #### Bibliography <a name="bibliography"></a> <br/> 
