@@ -1,4 +1,5 @@
 ## MSDV Thesis <br>
+
 -------------------------------------------------------------------------------------
 ### Research Question <a name="research-question"></a> <br/> 
 ##### Date: 02 February 2020 <br>
@@ -36,6 +37,7 @@ Material Proposal: Bamboo <br>
 •	[NYC Open Data](https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6) <br>
 
 ![mind-map](https://github.com/salonieshah/thesis/blob/master/images/mind-map.png)
+
 ----------------------------------------------------------------------------------------------
 
 ### Bibliography <a name="bibliography"></a> <br/> 
