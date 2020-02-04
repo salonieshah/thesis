@@ -4,41 +4,74 @@
 ### Research Question <a name="research-question"></a> <br/> 
 ##### Date: 02 February 2020 <br>
 
-#### Living Balustrade <br>
+### <u> Carbon Markets </u> <br>
 
-Material Proposal: Bamboo <br>
+##### I am visualizing the emergence of Carbon Markets to understand its fluctuations, prices and trading after the Durban Agreement in order to understand the loopholes in Environmental Policy resulting in adverse Environmental Impacts. <br/>
 
-1. Macro Benefits <br>
-•	Local Production <br>
-•	Decreased dependency of raw materials <br>
-•	Sustainable Market Opportunities <br>
-•	Environmental and Economical Benefits <br>  
+##### <u> Areas of Interests </u>
 
-2. Employment Opportunities for Sustainable Industries <br>
-•	Plant can provide raw materials <br>
-•	Local opportunities for production of paper, clothes, toothbrush, and other products. <br>  
-•	Opportunity for local markets: increasing employment and revenue, while decreasing energy consumption and commodity dependency <br>
+<b> International Policy </b>
 
-3. Employment for local population <br>
-•	Harvest Every Month <br>
-•	Incentives for Watering Plants <br>
-•	Could help decreasing poverty statistics through employing unskilled population <br>
+- Timelines and Landmarks
 
-4. Micro Climate Improvement <br>
-•	Air Quality Improvement <br>
-•	Groundwater Recharge <br>
-•	Rainfall Patterns <br>
-•	Soil Quality Improvement <br>
+	- Kyoto Protocol
+	- UNFCCC Conference of the Parties (COP)
 
-5. Other Benefits <br>
-•	Act as a guardrail for pedestrians especially kids and pets <br>
+		- Common but Differentiated Responsibilities (CBDR)
 
-6. Sources <br>
-•	[NYC Open Data](https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6) <br>
+	- Paris Agreement Article 6
+	- Durban Agreement 
 
-![mind-map](https://github.com/salonieshah/thesis/blob/master/images/mind-map.png)
+		-  Expansion of Carbon Markets 
 
-----------------------------------------------------------------------------------------------
+			- Weakening of Targets of Kyoto Protocol
+
+<b> Emerging Markets </b>
+
+- Historical Background on
+Market Systems Within
+Climate Policy
+- Market-Based Tool to Limit GHG
+
+	- Carbon Trading
+	- Carbon Taxes
+	- Carbon Offset
+	- REDD+
+
+##### <u> Anticipated Learnings </u>
+
+- Mitigation or Business Opportunity
+
+- Loopholes in Paris Agreement Article 6
+
+- No GHG Reductions
+
+- The injustices, racism and colonialism of carbon pricing schemes are international in scope. 
+	
+##### <u> Sources </u>
+
+- [Land Matrix](https://landmatrix.org/data/)
+
+- [The World Bank: Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/map_data)
+
+- [Bloomberg: Here’s How Carbon Gets Priced Around the World](https://www.bloomberg.com/graphics/2018-carbon-pricing/)
+
+- [World Bank Group: State and Trends of Carbon Pricing 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29687/9781464812927.pdf?sequence=5&isAllowed=y,%20ECOFYS)
+
+##### <u> References </u>
+
+- International Carbon Action Partnership Emissions Trading Worldwide Executive Summary
+
+- Carbon Pricing A Critical Perspective for Community Resistance
+
+- The New York Times : These Countries Have Prices on Carbon. Are They Working?
+
+- The World Bank: Carbon Pricing
+
+<br>
+<br>
+
+-----------------------------------------------------------------------------------------------
 
 ### Bibliography <a name="bibliography"></a> <br/> 
 ##### Date: 26 January 2020 <br>
