@@ -68,8 +68,7 @@ Climate Policy
 
 - The World Bank: Carbon Pricing
 
-<br>
-![mind-map](https://github.com/salonieshah/thesis/blob/master/images/mind-map.png)
+![carbon-market](https://github.com/salonieshah/thesis/blob/master/images/Carbon-Markets.png "Carbon-Market")
 <br>
 <br>
 
