@@ -6,11 +6,18 @@
 
 ### <u> Carbon Markets </u> <br>
 
-##### I am visualizing the emergence of Carbon Markets to understand its fluctuations, prices and trading after the Durban Agreement in order to understand the loopholes in Environmental Policy resulting in adverse Environmental Impacts. <br/>
+##### I am visualizing the emergence of Carbon Markets to understand the impact of International Policies on price fluctuation and trading of carbon in order to understand if the loopholes in Environmental Policies are creating a business opportunity resulting in worsening the already felt impacts.  <br/>
 
 ##### <u> Areas of Interests </u>
 
 <b> International Policy </b>
+
+- Discussions 
+
+	- The main focus at the climate negotiations continues to be about saving the free-market economy for hegemonic i.e. the biggest transnational corporations and financial institutions. 
+
+		- The climate talks at the end of 2015 are slated to sign an agreement that will expand the free-market logic into all cycles and functions of the Earth.
+
 
 - Timelines and Landmarks
 
@@ -25,6 +32,9 @@
 		-  Expansion of Carbon Markets 
 
 			- Weakening of Targets of Kyoto Protocol
+    - REDD+
+
+		- The key issue debated in REDD (Reducing Emissions from Deforestation and Forest Degradation) of how the definition of forests used by the UN, FAO and other multilateral agencies promotes the expansion of industrial monoculture tree plantations and aims to trade the carbon “stored” in trees.
 
 <b> Emerging Markets </b>
 
@@ -37,7 +47,25 @@ Climate Policy
 	- Carbon Taxes
 	- Carbon Offset
 	- REDD+
+	- Payment for Environmental and ecological Services (PES).
+	- Clean Development Mechanism 
 
+- Carbon Markets
+
+	- EU Emissions Trading Scheme (ETS)
+	- Since 2013 there have been new carbon markets introduced in California, Kazakhstan, Mexico, Quebec, Korea and China, and they continue to expand.
+
+- Questions
+
+	- Who is benefiting and who is harmed? 
+	- How does this affect the local environment, territories and communities?
+
+- Consequences
+
+	- Human rights violations
+	- Land Grabs 
+	- Environmental Destruction
+	
 ##### <u> Anticipated Learnings </u>
 
 - Mitigation or Business Opportunity
@@ -47,7 +75,14 @@ Climate Policy
 - No GHG Reductions
 
 - The injustices, racism and colonialism of carbon pricing schemes are international in scope. 
-	
+- Carbon trading provides not only additional finance for polluting industries but also creates a new discourse that allows themselves to brand their pollution as “green”, “carbon neutral” or “sustainable”.
+
+##### <u> Hypothetical Impact </u>
+
+- To stop the further financialization of the Earth, following the narrative and metrics of a carbon commodity, into forests, soils, biodiversity, water and oceans.
+
+- Policy against the “financialization of nature” and the commodification of the Earth.
+ 
 ##### <u> Sources </u>
 
 - [Land Matrix](https://landmatrix.org/data/)
@@ -67,6 +102,7 @@ Climate Policy
 - The New York Times : These Countries Have Prices on Carbon. Are They Working?
 
 - The World Bank: Carbon Pricing
+- Paths beyond Paris: Movements, Action and Solidarity towards Climate Justice
 
 ![carbon-market](https://github.com/salonieshah/thesis/blob/master/images/Carbon-Markets.png "Carbon-Market")
 <br>
