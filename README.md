@@ -1,110 +1,163 @@
 ## MSDV Thesis <br>
 
 -------------------------------------------------------------------------------------
-### Research Question <a name="research-question"></a> <br/> 
+## Form <a name="form"></a> <br/> 
+##### Date: 17 February 2020 <br>
+
+The story board reflects the user journey to understand carbon markets, loopholes in policies and solutions as a part of my project. <br> 
+![story-board](https://github.com/salonieshah/thesis/blob/master/images/Story-Board.png "Carbon-Market")
+
+<br>
+<br>
+## Research Question <a name="research-question"></a> <br/> 
 ##### Date: 02 February 2020 <br>
 
-### <u> Carbon Markets </u> <br>
+### Juxtaposing California's Cap and Trade with Climate Policy of Phase-Out to derive an ideal policy for Mitigation and Reduction of green house gases. <br>
 
-##### I am visualizing the emergence of Carbon Markets to understand the impact of International Policies on price fluctuation and trading of carbon in order to understand if the loopholes in Environmental Policies are creating a business opportunity resulting in worsening the already felt impacts.  <br/>
+##### Topic: Visualizing the Juxtaposition of  California’s Cap and Trade and Climate Policy of Phase-Out
 
-##### <u> Areas of Interests </u>
+##### Question: In order to find out if the Phase-Out Policy would be an ideal solution to substantially reduce the Green House Emissions instead of Carbon Cap and Trade
 
-<b> International Policy </b>
+##### Significance: In order to understand the loopholes in the current policy that creates market opportunities instead of mitigation. 
 
-- Discussions 
+### <u> Areas of Interests </u>
 
-	- The main focus at the climate negotiations continues to be about saving the free-market economy for hegemonic i.e. the biggest transnational corporations and financial institutions. 
+<b> Understanding Policy with reference to following aspects </b>
 
-		- The climate talks at the end of 2015 are slated to sign an agreement that will expand the free-market logic into all cycles and functions of the Earth.
+- Deciding the Scope
 
+	- Inclusion of Green House Gases
+	- Inclusion of different sectors
 
-- Timelines and Landmarks
+- Setting the Cap
 
-	- Kyoto Protocol
-	- UNFCCC Conference of the Parties (COP)
+	- Targeting to reducing greenhouse
+gas (GHG) emissions by __% below 1990 levels (pre-industrial) by ____ (year).
 
-		- Common but Differentiated Responsibilities (CBDR)
+- Offset Sources
 
-	- Paris Agreement Article 6
-	- Durban Agreement 
+	- Forests
 
-		-  Expansion of Carbon Markets 
+- Distribution of allowances
 
-			- Weakening of Targets of Kyoto Protocol
-    - REDD+
+	- Free Allocations
+	- State-administered auctions
+	- Private Markets
 
-		- The key issue debated in REDD (Reducing Emissions from Deforestation and Forest Degradation) of how the definition of forests used by the UN, FAO and other multilateral agencies promotes the expansion of industrial monoculture tree plantations and aims to trade the carbon “stored” in trees.
+- Temporary Flexibility
 
-<b> Emerging Markets </b>
+	- "Banking” of allowances for use
+at a later time
+	- Holding limits
 
-- Historical Background on
-Market Systems Within
-Climate Policy
-- Market-Based Tool to Limit GHG
+- Compliance and oversight
 
-	- Carbon Trading
-	- Carbon Taxes
-	- Carbon Offset
-	- REDD+
-	- Payment for Environmental and ecological Services (PES).
-	- Clean Development Mechanism 
+	- Verify Emissions 
 
-- Carbon Markets
+- Revenue Transfers
 
-	- EU Emissions Trading Scheme (ETS)
-	- Since 2013 there have been new carbon markets introduced in California, Kazakhstan, Mexico, Quebec, Korea and China, and they continue to expand.
+	- Mitigation
 
-- Questions
+		- Clean Energy
+		- Paying Back Ecological Debt
 
-	- Who is benefiting and who is harmed? 
-	- How does this affect the local environment, territories and communities?
+<b> California Cap and Trade </b>
 
-- Consequences
+- Understanding basics of California's Cap and Trade Program. 
 
-	- Human rights violations
-	- Land Grabs 
-	- Environmental Destruction
+	- California Code of Regulations : California Cap on Greenhouse Gas Emissions and Market-Based Compliance Mechanisms
+
+		- Performance for  2012 to 2020
+
+			- The California Legislature in 2006 set the first climate target of 1990 emissions levels by 2020 based on international recommendations from the Intergovernmental Panel on Climate Change. 
+
+				- In 2016, California
+passed legislation setting a new target of reducing greenhouse
+gas (GHG) emissions by 40% below 1990 levels by 2030.
+
+	- Criticism of California Cap on Greenhouse Gas Emissions and Market-Based Compliance Mechanisms
+
+		- Free Allocation of Allowances
+
+			- Offset Allocations and Transfers
+
+		-  The  loose definition of forests used by the UN, FAO and other multilateral agencies promotes the expansion of industrial monoculture tree plantations and aims to trade the carbon “stored” in trees.
+
+			- Destruction of healthy eco systems and forests
+			- Landgrabs
+			- Human Rights Violations
+			- Cultural Destruction of Indigenous Rights
+
+		- It  provides not only additional finance for polluting industries but also creates a new discourse that allows them to brand their pollution as “green”, “carbon neutral” or “sustainable”.
+		- Unclear Offset Locations
+		- Unclear Offset Trasfers
+		- Creation of Economic opportunities instead of mitigation opportunities 
+		- Distraction from Real Solutions
+
+<b> Climate Policy of Phase-Out </b>
+- Understanding Basics of Phase Out Policy
+
+	- Targets for the reduction of greenhouse gas emissions
+
+		- Provision of Cap and Trade with Phase Out
+		- Economic Opportunity with Mitigation Opportunity
+		- Accelerated Transitions
+
+	- Advantages of Climate Policy of Phase Out
+
+		- Monetary Allocation of Allowances
+		- No offsets offered
+		- Mitigation at Source
+
+	- Factors that requires strict surveillance
+
+		- Offset Location
+
+			- Definition of Forests for Offsets 
+
+		- Transferred production to developing or third world countries. 
+		- Offset Transfers
+		- Reduction in absolute emissions and not net emissions
 	
-##### <u> Anticipated Learnings </u>
 
-- Mitigation or Business Opportunity
+### <u> Anticipated Learnings </u>
 
-- Loopholes in Paris Agreement Article 6
+- An ideal policy for Mitigation
 
-- No GHG Reductions
+- Acknowledgement of loopholes in current policy
 
-- The injustices, racism and colonialism of carbon pricing schemes are international in scope. 
-- Carbon trading provides not only additional finance for polluting industries but also creates a new discourse that allows themselves to brand their pollution as “green”, “carbon neutral” or “sustainable”.
+- Redefining the definition of Forests
 
-##### <u> Hypothetical Impact </u>
+### <u> Target Audience </u>
 
-- To stop the further financialization of the Earth, following the narrative and metrics of a carbon commodity, into forests, soils, biodiversity, water and oceans.
+- General Population
 
-- Policy against the “financialization of nature” and the commodification of the Earth.
  
-##### <u> Sources </u>
+##### <u> Potential Data Sources </u>
+
+- [California Cap and Trade Program: Summary of California-Quebec Joint Auction Settlement Prices and Results by California Air Resources Board](https://ww3.arb.ca.gov/cc/capandtrade/auction/proceeds_summary.pdf)
+
+- [California Code of Regulations](https://ww3.arb.ca.gov/cc/capandtrade/capandtrade/ct_reg_unofficial.pdf)
+
+- [Exploring the role of phase-out policies for low-carbon energy transitions: The case of the German Energiewende by Karoline S. Roggea, Phil Johnstone](https://www.sciencedirect.com/science/article/pii/S2214629617303316)
+
+- [Phase-out 2020: Monitoring Europe’s fossilfuel subsidies by Ipek Gençsü, Maeve McLynn, Matthias Runkel, Markus Trilling, Laurie van der Burg, Leah Worrall, Shelagh Whitley, and Florian Zerzawy](https://www.odi.org/publications/10939-phase-out-2020-monitoring-europes-fossil-fuel-subsidies)
 
 - [Land Matrix](https://landmatrix.org/data/)
 
-- [The World Bank: Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/map_data)
-
-- [Bloomberg: Here’s How Carbon Gets Priced Around the World](https://www.bloomberg.com/graphics/2018-carbon-pricing/)
-
-- [World Bank Group: State and Trends of Carbon Pricing 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29687/9781464812927.pdf?sequence=5&isAllowed=y,%20ECOFYS)
 
 ##### <u> References </u>
 
-- International Carbon Action Partnership Emissions Trading Worldwide Executive Summary
+- [REDD+ The Carbon Market and California-Acre-Chiapas Cooperation: Legalizing mechanisms of dispossession by Friends of the Earth International](https://www.foei.org/wp-content/uploads/2018/01/REDD_The-carbon-market-and-the-California-Acre-Chiapas-cooperation.pdf)
 
-- Carbon Pricing A Critical Perspective for Community Resistance
+- [California’s cap-and-trade program step by step by Environmental Defense Fund](https://www.edf.org/sites/default/files/californias-cap-and-trade-program-step-by-step_0.pdf)
 
-- The New York Times : These Countries Have Prices on Carbon. Are They Working?
+- [A change of course: How to build a fair future in a 1.5° world by Friends of the Earth Germany and Heinrich-Böll-Stiftung e.V.](https://pl.boell.org/en/2016/11/01/change-course-how-build-fair-future-15deg-world)
 
-- The World Bank: Carbon Pricing
-- Paths beyond Paris: Movements, Action and Solidarity towards Climate Justice
+- [Global and regional coal phase-out requirements of the Paris Agreement: Insights from the IPCC Special Report on 1.5°C by Climate Analytics](https://climateanalytics.org/publications/2019/coal-phase-out-insights-from-the-ipcc-special-report-on-15c-and-global-trends-since-2015/)
 
-![carbon-market](https://github.com/salonieshah/thesis/blob/master/images/Carbon-Markets.png "Carbon-Market")
+
+![mind-map](https://github.com/salonieshah/thesis/blob/master/images/Juxtaposition-of-Policies.png "Juxtaposition-of-Policies")
 <br>
 <br>
 
