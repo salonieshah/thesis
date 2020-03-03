@@ -1,6 +1,16 @@
 ## MSDV Thesis <br>
 
 -------------------------------------------------------------------------------------
+## Prototyping <a name="prototyping"></a> <br/> 
+##### Date: 17 February 2020 <br>
+
+The wireframes reflects the user journey to understand carbon markets, loopholes in policies and solutions as a part of my project. <br> 
+![wire-frame](https://github.com/salonieshah/thesis/blob/master/images/Wire-Frame-1.png "wire-frame-1")
+![wire-frame](https://github.com/salonieshah/thesis/blob/master/images/Wire-Frame-2.png "wire-frame-1")
+<br>
+<br>
+
+
 ## Form <a name="form"></a> <br/> 
 ##### Date: 17 February 2020 <br>
 

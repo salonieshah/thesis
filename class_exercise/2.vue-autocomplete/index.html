@@ -10,9 +10,15 @@
         <h1>Find any of the {{stateCount}} US states!</h1>
 
         <div id="autocomplete">
-            <input type="text" v-on:focus="showStates()" v-on:focusout="hideStates()" v-model="search" placeholder="Find your state!">
+            <input type="text" v-on:focus="showStates()" v-model="search" placeholder="Find your state!">
+            <!--<input type="text" v-on:focus="showStates()" v-on:focusout="hideStates()" v-model="search" placeholder="Find your state!">-->
+            
             <ul v-if="statesVisible">
-                <li v-for="state in filterStates">{{state}}</li>
+                <li v-for="state in filterStates">
+                    <a v-on:click="complete(state)">
+                        {{state}}
+                     </a>
+                </li>
             </ul>
         </div>
 
