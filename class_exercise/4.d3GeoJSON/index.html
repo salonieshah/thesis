@@ -33,20 +33,18 @@
 
             var projection = d3.geoEqualEarth() // https://github.com/d3/d3-geo/blob/master/README.md#geoEqualEarth
 
-            // var projection = d3.geoConicConformal()
-            
          	let featureElement = svg.selectAll("path")
         		.data(geojson.features)
         		.enter()
                 .append("path")
                 .attr("d", d3.geoPath(projection))
-                .attr("stroke", "black")
+                .attr("stroke", "lightpink")
                 .attr("fill", "lightgray")
                 .attr("fill-opacity", 0.5)
-                .on('mouseover', function(d) {
-                    console.log(d.properties.name)
-                    return d.properties.name
+                .on('mouseenter', function(d) {
+                    console.log(d.properties.name);
                 })
+
 
 
         });

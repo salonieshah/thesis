@@ -1,0 +1,90 @@
+[
+  {
+    "key_indicators": "Local confusion or lack of awareness of REDD+",
+    "problem": "Problems with enrolment",
+    "Num_cases_indicator_discussed_N": 33,
+    "Num_cases_indicator_present_n": 18,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 34,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 55
+  },
+  {
+    "key_indicators": "Financial benefits not delivered to local actors",
+    "problem": "Problems with enrolment",
+    "Num_cases_indicator_discussed_N": 34,
+    "Num_cases_indicator_present_n": 19,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 36,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 56
+  },
+  {
+    "key_indicators": "Negative local views of REDD+",
+    "problem": "Problems with enrolment",
+    "Num_cases_indicator_discussed_N": 33,
+    "Num_cases_indicator_present_n": 14,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 26,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 42
+  },
+  {
+    "key_indicators": "Implementation of MRV systems",
+    "problem": "Processes of codification",
+    "Num_cases_indicator_discussed_N": 32,
+    "Num_cases_indicator_present_n": 19,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 36,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 59
+  },
+  {
+    "key_indicators": "New boundaries demarcated as part of REDD+",
+    "problem": "Processes of codification",
+    "Num_cases_indicator_discussed_N": 40,
+    "Num_cases_indicator_present_n": 28,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 53,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 70
+  },
+  {
+    "key_indicators": "REDD+ influence on local tenure arrangements",
+    "problem": "Processes of codification",
+    "Num_cases_indicator_discussed_N": 40,
+    "Num_cases_indicator_present_n": 22,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 42,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 55
+  },
+  {
+    "key_indicators": "State property demarcation as part of REDD+",
+    "problem": "Processes of codification",
+    "Num_cases_indicator_discussed_N": 38,
+    "Num_cases_indicator_present_n": 14,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 26,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 37
+  },
+  {
+    "key_indicators": "Social tension and conflict due to REDD+",
+    "problem": "Evidence of dissonance",
+    "Num_cases_indicator_discussed_N": 39,
+    "Num_cases_indicator_present_n": 36,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 68,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 92
+  },
+  {
+    "key_indicators": "Ongoing forest clearance in the target area",
+    "problem": "Evidence of dissonance",
+    "Num_cases_indicator_discussed_N": 34,
+    "Num_cases_indicator_present_n": 31,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 58,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 91
+  },
+  {
+    "key_indicators": "Problems with leakage",
+    "problem": "Evidence of dissonance",
+    "Num_cases_indicator_discussed_N": 7,
+    "Num_cases_indicator_present_n": 4,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 8,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 57
+  },
+  {
+    "key_indicators": "Violation of new REDD+ boundaries",
+    "problem": "Evidence of dissonance",
+    "Num_cases_indicator_discussed_N": 28,
+    "Num_cases_indicator_present_n": 20,
+    "Indicator_prevalence_across_all_cases_percent_n_div_53": 38,
+    "Indicator_prevalence_in_relevant_subset_of_cases_percent_n_divide_N": 71
+  }
+]

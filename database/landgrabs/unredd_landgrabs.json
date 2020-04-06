@@ -1,0 +1,337 @@
+[
+  {
+    "cont": "Asia-Pacific",
+    "country": "Cambodia",
+    "landgrabs": 253
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Argentina",
+    "landgrabs": 240
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Indonesia",
+    "landgrabs": 225
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Brazil",
+    "landgrabs": 217
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Philippines",
+    "landgrabs": 171
+  },
+  {
+    "cont": "Africa",
+    "country": "Ethiopia",
+    "landgrabs": 151
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Peru",
+    "landgrabs": 141
+  },
+  {
+    "cont": "Africa",
+    "country": "Tanzania",
+    "landgrabs": 134
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Viet Nam",
+    "landgrabs": 130
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Lao Peoples' Democratic Republic�",
+    "landgrabs": 109
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "India",
+    "landgrabs": 107
+  },
+  {
+    "cont": "Africa",
+    "country": "Ghana",
+    "landgrabs": 101
+  },
+  {
+    "cont": "Africa",
+    "country": "Zambia",
+    "landgrabs": 97
+  },
+  {
+    "cont": "Africa",
+    "country": "Nigeria",
+    "landgrabs": 92
+  },
+  {
+    "cont": "Africa",
+    "country": "Democratic Republic of the Congo",
+    "landgrabs": 91
+  },
+  {
+    "cont": "Africa",
+    "country": "Kenya",
+    "landgrabs": 77
+  },
+  {
+    "cont": "Africa",
+    "country": "Madagascar",
+    "landgrabs": 76
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Myanmar",
+    "landgrabs": 76
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Colombia",
+    "landgrabs": 70
+  },
+  {
+    "cont": "Africa",
+    "country": "Uganda",
+    "landgrabs": 65
+  },
+  {
+    "cont": "Africa",
+    "country": "Cameroon",
+    "landgrabs": 58
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Papua New Guinea",
+    "landgrabs": 49
+  },
+  {
+    "cont": "Africa",
+    "country": "Liberia",
+    "landgrabs": 48
+  },
+  {
+    "cont": "Africa",
+    "country": "Sudan�",
+    "landgrabs": 47
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Malaysia",
+    "landgrabs": 45
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Paraguay",
+    "landgrabs": 41
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Bangladesh",
+    "landgrabs": 40
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Chile",
+    "landgrabs": 39
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Mexico",
+    "landgrabs": 37
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Mongolia",
+    "landgrabs": 33
+  },
+  {
+    "cont": "Africa",
+    "country": "C�te d'Ivoire",
+    "landgrabs": 29
+  },
+  {
+    "cont": "Africa",
+    "country": "Zimbabwe",
+    "landgrabs": 29
+  },
+  {
+    "cont": "Africa",
+    "country": "Malawi",
+    "landgrabs": 28
+  },
+  {
+    "cont": "Africa",
+    "country": "South Sudan",
+    "landgrabs": 26
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Pakistan",
+    "landgrabs": 23
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Ecuador",
+    "landgrabs": 21
+  },
+  {
+    "cont": "Africa",
+    "country": "Burkina Faso",
+    "landgrabs": 20
+  },
+  {
+    "cont": "Africa",
+    "country": "Congo�",
+    "landgrabs": 18
+  },
+  {
+    "cont": "Africa",
+    "country": "Gabon",
+    "landgrabs": 16
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Guatemala",
+    "landgrabs": 16
+  },
+  {
+    "cont": "Africa",
+    "country": "Guinea�",
+    "landgrabs": 14
+  },
+  {
+    "cont": "Africa",
+    "country": "Benin",
+    "landgrabs": 12
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Thailand",
+    "landgrabs": 11
+  },
+  {
+    "cont": "Africa",
+    "country": "Morocco",
+    "landgrabs": 10
+  },
+  {
+    "cont": "Africa",
+    "country": "Central African Republic�",
+    "landgrabs": 9
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Sri Lanka",
+    "landgrabs": 9
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Guyana",
+    "landgrabs": 8
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Bolivia (Plurinational State of)",
+    "landgrabs": 7
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Honduras",
+    "landgrabs": 7
+  },
+  {
+    "cont": "Africa",
+    "country": "Tunisia",
+    "landgrabs": 7
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Costa Rica",
+    "landgrabs": 5
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Dominican Republic",
+    "landgrabs": 4
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Panama",
+    "landgrabs": 4
+  },
+  {
+    "cont": "Africa",
+    "country": "Chad",
+    "landgrabs": 3
+  },
+  {
+    "cont": "Africa",
+    "country": "Guinea Bissau",
+    "landgrabs": 2
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Nepal",
+    "landgrabs": 2
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Solomon Islands",
+    "landgrabs": 1
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Suriname",
+    "landgrabs": 1
+  },
+  {
+    "cont": "Africa",
+    "country": "Togo",
+    "landgrabs": 1
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Bhutan",
+    "landgrabs": 0
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "El Salvador",
+    "landgrabs": 0
+  },
+  {
+    "cont": "Africa",
+    "country": "Equatorial Guinea",
+    "landgrabs": 0
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Fiji",
+    "landgrabs": 0
+  },
+  {
+    "cont": "Caribbean-Latin",
+    "country": "Jamaica",
+    "landgrabs": 0
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Samoa",
+    "landgrabs": 0
+  },
+  {
+    "cont": "Asia-Pacific",
+    "country": "Vanuatu",
+    "landgrabs": 0
+  },
+  {
+    "cont": "",
+    "country": "",
+    "landgrabs": 3403
+  }
+]
