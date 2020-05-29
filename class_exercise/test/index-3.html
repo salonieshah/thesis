@@ -1,0 +1,99 @@
+<!DOCTYPE html><html class=''>
+  <head>
+    <style>
+      .app {
+  max-width: 800px;
+  margin: 0 auto;
+}
+    </style>
+  </head>
+  <body>
+    <div class="app">
+    {{ message }}
+  <radar-chart></radar-chart>
+  <input v-model="name">
+</div>
+	
+    </div>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js'></script>
+    <script src='//unpkg.com/vue-chartjs@2.6.0/dist/vue-chartjs.full.min.js'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.js'></script>
+    <script src='//unpkg.com/hchs-vue-charts@1.2.8'></script>
+    <script >'use strict';
+
+      Vue.component('radar-chart', {
+  extends: VueChartJs.Bubble,
+  mounted () {
+    this.renderChart({
+      datasets: [
+        {
+          label: 'Data One',
+          backgroundColor: '#f87979',
+          data: [
+            {
+              x: 20,
+              y: 25,
+              r: 5
+            },
+            {
+              x: 40,
+              y: 10,
+              r: 10
+            },
+            {
+              x: 30,
+              y: 22,
+              r: 30
+            }
+          ]
+        },
+        {
+          label: 'Data Two',
+          backgroundColor: '#7C8CF8',
+          data: [
+            {
+              x: 10,
+              y: 30,
+              r: 15
+            },
+            {
+              x: 20,
+              y: 20,
+              r: 10
+            },
+            {
+              x: 15,
+              y: 8,
+              r: 30
+            }
+          ]
+        }
+      ]
+    }, {
+      responsive: true, 
+      maintainAspectRatio: false,
+    
+      
+      radius: 4
+      
+    })
+  },  
+  
+  methods: {
+    calculateRadius (ctx) {
+      console.log(ctx)
+    }
+  }
+})
+
+var vm = new Vue({
+  el: '.app',
+  data: {
+    message: 'Hello World',
+    name: 'hey'
+  }
+})
+
+    </script>
+  </body>
+</html>
